@@ -9,3 +9,8 @@ The model accepts an input image from the user and processes it across 4 stages:
 - Validates that the car is damaged.
 - Finds location of damage as front, rear or side
 - Determines severity of damage as minor, moderate or severe.
+# Different models we are using for training:
+- Resnet50
+- InceptionV3
+- VGG16
+- VGG19
