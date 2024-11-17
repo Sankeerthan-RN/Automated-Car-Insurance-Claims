@@ -16,3 +16,5 @@ The model accepts an input image from the user and processes it across 4 stages:
 - InceptionV3
 - VGG16
 - VGG19
+# Model Architecture Diagram
+![Q Search Banner](app/static/ScreenShots/model_architecture_design.png "img")
